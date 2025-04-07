@@ -132,7 +132,13 @@
         font-family: "Roboto Slab", serif;
         font-size: 14px;
     }
-    
+
+    .logo-mobile_txt span {
+        font-size: 12px;
+        font-weight: 400;
+        color: #979799;
+        text-decoration: none;
+    }
 
     .lang-container_mobile {
         display: flex;
