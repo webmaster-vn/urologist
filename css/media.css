@@ -172,6 +172,10 @@
         flex-direction: column;
     }
 
+    .feedback-btn {
+        width: 220px;
+    }
+
     .about_container {
         flex-direction: column;
     }
